@@ -22,6 +22,8 @@ Our workflow is mostly based on the guidelines given at se-education.org/guides.
 
 The sections below has more information about various stages of submitting a PR.
 
+
+
 ## Writing code
 
 #### General tips
